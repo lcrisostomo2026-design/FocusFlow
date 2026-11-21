@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow",
+  "description": "Personal deep-work time-blocking and four-week productivity tracker protecting two daily 90-minute focus sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
